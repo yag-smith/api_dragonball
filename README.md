@@ -86,11 +86,6 @@ Clonar el repositorio:
 git clone (https://github.com/yag-smith/api_dragonball.git)
 
 
-Navegar al directorio del proyecto:
-
-cd [PLACEHOLDER - Nombre de tu carpeta, ej: examenfina-spa]
-
-
 Instalar todas las dependencias:
 
 npm install
@@ -104,5 +99,11 @@ npm run dev
 El proyecto estará disponible en la dirección local que muestre la terminal (generalmente http://localhost:5173/).
 
 🔗 Enlaces Importantes
-
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+DEPLEGADO
+https://apidragonball-qh90h5t88-yairaraujo-9154s-projects.vercel.app/
+----------------------------------------------------------------------
+----------------------------------------------------------------------
 AUTOR:Araujo Gabriel Yair Smith
+
