@@ -15,7 +15,6 @@ const Home = () => {
       { }
       <div className="p-5 mb-4 bg-light rounded-3 text-center border">
         <h1 className="display-5 fw-bold text-warning">Mundo Dragon Ball</h1>
-        <p className="fs-4">Practicando para el examen con la mejor API.</p>
         <Link to="/entities" className="btn btn-warning btn-lg fw-bold">Ver Todos los Personajes</Link>
       </div>
 
